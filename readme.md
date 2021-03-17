@@ -10,6 +10,8 @@
   [How To Use](#Usage)
 
   [Images](#Images)
+  ![Get All Request](https://raw.githubusercontent.com/Jonathan-84/Social-API/master/assets/screens/Get%20All%20Users.jpg)
+  ![Put Request](https://raw.githubusercontent.com/Jonathan-84/Social-API/master/assets/screens/Put%20Request.jpg)
 
   [Test](#Test)
 
