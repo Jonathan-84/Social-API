@@ -14,6 +14,8 @@
   ![Put Request](https://raw.githubusercontent.com/Jonathan-84/Social-API/master/assets/screens/Put%20Request.jpg)
 
   [Test](#Test)
+  ![Thought, Reactions, User CRUD](https://drive.google.com/file/d/1oxX44eLv63Bslb6wkzqdIPGt5mKKGyxY/view)
+    ![Friends Add and Delete](https://drive.google.com/file/d/1tBCI4evyrhpLK3n04Hz-ns_IU9L-scLZ/view)
 
   [License](#License)
 
